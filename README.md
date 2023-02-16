@@ -4,15 +4,15 @@ This repo is for the AAAI 2023 paper [Adversarial Self-Attention for Language Un
 
 <table>
   <tr>
-    <td><div><center><img src="https://github.com/gingasan/adversarialSA/blob/main/figures/sa_map.pdf"
+    <td><div><center><img src="https://github.com/gingasan/adversarialSA/blob/main/figures/sa_map.png"
                           alt="sa"
                           style="zoom:70%;"/>
       <br>
       Self-Attention
       </center></div></td>
-    <td><div><center><img src="https://github.com/gingasan/adversarialSA/blob/main/figures/asa_map.pdf"
-                     alt="asa"
-                     style="zoom:70%;"/>
+    <td><div><center><img src="https://github.com/gingasan/adversarialSA/blob/main/figures/asa_map.png"
+                          alt="asa"
+                          style="zoom:70%;"/>
       <br>
       Adversarial Self-Attention
       </center></div></td>
