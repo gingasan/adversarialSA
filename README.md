@@ -2,6 +2,10 @@
 
 This repo is for the AAAI 2023 paper [Adversarial Self-Attention for Language Understanding](https://arxiv.org/abs/2206.12608).
 
+
+
+"it has all the ==excitement== of ==eating oatmeal== ."
+
 <table>
   <tr>
     <td><div><center><img src="https://github.com/gingasan/adversarialSA/blob/main/figures/sa_map.png"
