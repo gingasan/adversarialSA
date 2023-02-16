@@ -2,6 +2,23 @@
 
 This repo is for the AAAI 2023 paper [Adversarial Self-Attention for Language Understanding](https://arxiv.org/abs/2206.12608).
 
+<table>
+  <tr>
+    <td><div><center><img src="figures/case.pdf"
+                          alt="sa"
+                          style="zoom:70%;"/>
+      <br>
+      Self-Attention
+      </center></div></td>
+    <td><div><center><img src="figures/case_asa.pdf"
+                     alt="asa"
+                     style="zoom:70%;"/>
+      <br>
+      Adversarial Self-Attention
+      </center></div></td>
+  </tr>
+</table>
+
 
 
 **Dependency**
