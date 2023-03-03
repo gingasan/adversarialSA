@@ -4,7 +4,7 @@ This repo is for the AAAI 2023 paper [Adversarial Self-Attention for Language Un
 
 
 
-"it has all the ==excitement== of ==eating oatmeal== ."
+"it has all the ==excitement== of ==eating oatmeal== ." (label 0)
 
 <table>
   <tr>
@@ -12,16 +12,18 @@ This repo is for the AAAI 2023 paper [Adversarial Self-Attention for Language Un
                           alt="sa"
                           style="zoom:70%;"/>
       <br>
-      Self-Attention
+      Self-Attention (predict 1)
       </center></div></td>
     <td><div><center><img src="https://github.com/gingasan/adversarialSA/blob/main/figures/asa_map.png"
                           alt="asa"
                           style="zoom:70%;"/>
       <br>
-      Adversarial Self-Attention
+      Adversarial Self-Attention (predict 0)
       </center></div></td>
   </tr>
 </table>
+
+The vanilla SA model is misled by too much attention on "excitement".
 
 
 
